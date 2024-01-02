@@ -1,0 +1,17 @@
+﻿  Angajat.cpp
+  Lab6.cpp
+C:\Users\moldo\source\repos\Lab6\Lab6\Angajat.cpp(17,17): error C2084: function 'std::string Angajat::getDepartament(void)' already has a body
+  C:\Users\moldo\source\repos\Lab6\Lab6\Angajat.h(14,9):
+  see previous definition of 'getDepartament'
+  
+  Persoana.cpp
+C:\Users\moldo\source\repos\Lab6\Lab6\Persoana.cpp(15,19): error C2084: function 'std::string Persoana::detalii(void)' already has a body
+  C:\Users\moldo\source\repos\Lab6\Lab6\Persoana.h(17,17):
+  see previous definition of 'detalii'
+  
+  Profesor.cpp
+  Student.cpp
+  Generating Code...
+C:\Users\moldo\source\repos\Lab6\Lab6\Profesor.h(12): error C4716: 'Profesor::getMaterie': must return a value
+C:\Users\moldo\source\repos\Lab6\Lab6\Persoana.h(19): error C4716: 'Persoana::detalii': must return a value
+C:\Users\moldo\source\repos\Lab6\Lab6\Angajat.h(15): error C4716: 'Angajat::getDepartament': must return a value
